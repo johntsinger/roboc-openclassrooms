@@ -1,0 +1,22 @@
+OOOOOOOOOOOOOOO
+OX  O         O
+O.OOO.OOO.OOO.O
+O     OOO OOO O
+O       OOO   O
+OOOOOOOOOOOO  O
+O             O
+O.OOOOOOOOOO.OO
+O       OOO   O
+o     OOO     O
+O   OOO       O
+O   O         O
+O    OOOOOO.OOO
+OOOO.O    O   O
+O    OOOOOO   O
+O   OOO      OO
+O   OOO       O
+O  OOOOO   OOOO
+O      O      O
+O      OOOOOOOO      
+O             U
+OOOOOOOOOOOOOOO
